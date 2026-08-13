@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.protoqsar.com">
-  <img src="../Assets/protoqsar-logo.png" alt="ProtoQSAR" width="240">
+  <img src="../Assets/Protoqsar-logo.png" alt="ProtoQSAR" width="240">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.moldrug.com">
