@@ -12,7 +12,7 @@
 
 ## Computational science for safer chemicals and better therapeutics
 
-**Chemoinformatics · Artificial Intelligence · Molecular Modelling · Omics · Computational Toxicology**
+**Computational Toxicology · Chemoinformatics · Artificial Intelligence · Omics · Molecular Modelling **
 
 <br>
 
