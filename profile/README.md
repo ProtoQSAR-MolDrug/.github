@@ -1,26 +1,32 @@
 <div align="center">
 
+<table>
+<tr>
+<td align="center" valign="middle" width="300">
 <a href="https://www.protoqsar.com">
-  <img src="../Assets/Protoqsar-logo.png" alt="ProtoQSAR" height="80">
+<img src="../Assets/Protoqsar-logo.png" alt="ProtoQSAR" width="240">
 </a>
+</td>
 
-        
-
+<td align="center" valign="middle" width="300">
 <a href="https://www.moldrug.com">
-  <img src="../Assets/moldrug-logo.png" alt="MolDrug AI Systems" height="80">
+<img src="../Assets/moldrug-logo.png" alt="MolDrug AI Systems" width="240">
 </a>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
-### Computational science for safer chemicals and better therapeutics
+## Computational science for safer chemicals and better therapeutics
 
 **Chemoinformatics · Artificial Intelligence · Molecular Modelling · Omics · Computational Toxicology**
 
 <br>
 
-[![ProtoQSAR](https://img.shields.io/badge/ProtoQSAR-Visit%20website-2F6B5F?style=for-the-badge)](https://www.protoqsar.com)
+[![ProtoQSAR](https://img.shields.io/badge/PROTOQSAR-VISIT%20WEBSITE-2F6B5F?style=for-the-badge)](https://www.protoqsar.com)
  
-[![MolDrug AI Systems](https://img.shields.io/badge/MolDrug%20AI%20Systems-Visit%20website-315B7D?style=for-the-badge)](https://www.moldrug.com)
+[![MolDrug AI Systems](https://img.shields.io/badge/MOLDRUG%20AI%20SYSTEMS-VISIT%20WEBSITE-315B7D?style=for-the-badge)](https://www.moldrug.com)
 
 </div>
 
@@ -40,14 +46,12 @@ Our multidisciplinary teams combine **chemoinformatics, machine learning, molecu
 
 ProtoQSAR specializes in the development and application of **QSAR models, chemoinformatics and computational toxicology** for the prediction of physicochemical, biological and (eco)toxicological properties of chemicals.
 
-Our computational approaches support safer chemical design, reduce the need for animal testing and contribute to regulatory assessment across multiple industrial sectors.
+Our computational approaches support **safer chemical design**, reduce the need for animal testing and contribute to regulatory assessment across multiple industrial sectors.
 
-**Connect with ProtoQSAR:**
+**Explore ProtoQSAR**
 [Website](https://www.protoqsar.com) · [LinkedIn](https://www.linkedin.com/company/protoqsar/)
 
 <br>
-
----
 
 ### MolDrug AI Systems
 
@@ -57,7 +61,7 @@ MolDrug AI Systems combines **chemoinformatics, molecular modelling, omics data 
 
 Our approaches contribute to **molecular design and optimization, target identification, pathway analysis and computational drug discovery** across pharmaceutical, biotechnology and related research areas.
 
-**Connect with MolDrug AI Systems:**
+**Explore MolDrug AI Systems**
 [Website](https://www.moldrug.com) · [LinkedIn](https://www.linkedin.com/company/moldrug/)
 
 <br>
