@@ -1,22 +1,14 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle" width="300">
 <a href="https://www.protoqsar.com">
-<img src="../Assets/Protoqsar-logo.png" alt="ProtoQSAR" width="240">
+  <img src="../Assets/protoqsar-logo.png" alt="ProtoQSAR" width="240">
 </a>
-</td>
-
-<td align="center" valign="middle" width="300">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.moldrug.com">
-<img src="../Assets/moldrug-logo.png" alt="MolDrug AI Systems" width="240">
+  <img src="../Assets/moldrug-logo.png" alt="MolDrug AI Systems" width="240">
 </a>
-</td>
-</tr>
-</table>
 
-<br>
+</div>
 
 ## Computational science for safer chemicals and better therapeutics
 
