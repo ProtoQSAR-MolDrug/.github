@@ -1,6 +1,16 @@
 <div align="center">
 
-# ProtoQSAR · MolDrug AI Systems
+<a href="https://www.protoqsar.com">
+  <img src="../Assets/protoqsar-logo.png" alt="ProtoQSAR" height="80">
+</a>
+
+        
+
+<a href="https://www.moldrug.com">
+  <img src="../Assets/moldrug-logo.png" alt="MolDrug AI Systems" height="80">
+</a>
+
+<br><br>
 
 ### Computational science for safer chemicals and better therapeutics
 
@@ -22,6 +32,8 @@
 
 Our multidisciplinary teams combine **chemoinformatics, machine learning, molecular modelling, structural bioinformatics and omics** to transform chemical and biological data into actionable scientific knowledge.
 
+<br>
+
 ### ProtoQSAR
 
 **Computational solutions for chemical safety and molecular property prediction.**
@@ -32,6 +44,8 @@ Our computational approaches support safer chemical design, reduce the need for 
 
 **Connect with ProtoQSAR:**
 [Website](https://www.protoqsar.com) · [LinkedIn](https://www.linkedin.com/company/protoqsar/)
+
+<br>
 
 ---
 
@@ -45,6 +59,8 @@ Our approaches contribute to **molecular design and optimization, target identif
 
 **Connect with MolDrug AI Systems:**
 [Website](https://www.moldrug.com) · [LinkedIn](https://www.linkedin.com/company/moldrug/)
+
+<br>
 
 ---
 
